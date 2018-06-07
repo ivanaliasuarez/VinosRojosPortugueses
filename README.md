@@ -38,7 +38,7 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 ## Archivo de salida del programa
-- El programa crea un archivo de salida csv llamado - winequality-red-analysis.csv
+- El programa crea un archivo de salida csv llamado winequality-red-analysis.csv
 - Este archivo es generado en el paso de eliminación de los valores extremos y será usuado durante el resto de la práctica
   - Los registros eliminados son aquellos que
     - Residual Sugar es mayor o igual a 4.8 
