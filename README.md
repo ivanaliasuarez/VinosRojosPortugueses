@@ -26,12 +26,14 @@ python RedWineAnalysis.py
 ## Archivo de entrada del programa
 - El archivo utilizado es "Wine Quality Data Set" obtenido de UCI - https://archive.ics.uci.edu/ml/datasets/wine+quality
 
-Fuente del dataset 
+- Fuente del dataset 
+
 Paulo Cortez, University of Minho, Guimarães, Portugal, http://www3.dsi.uminho.pt/pcortez 
 A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal 
 @2009
 
-Citación requerida por el uso del dataset - 
+- Citación requerida por el uso del dataset
+
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
