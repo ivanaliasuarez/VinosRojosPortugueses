@@ -40,5 +40,8 @@ Modeling wine preferences by data mining from physicochemical properties. In Dec
 ## Archivo de salida del programa
 - El programa crea un archivo de salida csv llamado - winequality-red-analysis.csv
 - Este archivo es generado en el paso de eliminación de los valores extremos y será usuado durante el resto de la práctica
+  - Los registros eliminados son aquellos que
+    - Residual Sugar es mayor o igual a 4.8 
+    - Chlorides es mayor o igual a 0.152
 - Este archivo es creado en el mismo directorio de donde se ejecuta el programa.
 
